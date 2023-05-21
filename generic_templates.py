@@ -1,4 +1,3 @@
-import streamlit as st
 from langchain.prompts import PromptTemplate
 
 def create_generic_prompt_template():
